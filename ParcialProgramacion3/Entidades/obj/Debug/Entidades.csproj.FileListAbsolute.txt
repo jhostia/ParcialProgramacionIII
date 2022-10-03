@@ -1,0 +1,6 @@
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Entidades\bin\Debug\Entidades.dll
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Entidades\obj\Debug\Entidades.dll
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Entidades\obj\Debug\Entidades.pdb

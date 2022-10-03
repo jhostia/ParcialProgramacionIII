@@ -1,0 +1,9 @@
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Datos\bin\Debug\Datos.dll
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Datos\bin\Debug\Datos.pdb
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Datos\bin\Debug\Entidades.dll
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Datos\bin\Debug\Entidades.pdb
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Datos\obj\Debug\Datos.dll
+C:\Users\dapin\OneDrive\Escritorio\ParcialProgramacion3\Datos\obj\Debug\Datos.pdb
